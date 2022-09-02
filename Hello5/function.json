@@ -1,0 +1,14 @@
+{
+  "bindings": [
+    {
+      "name": "psItems",
+      "type": "activityTrigger",
+      "direction": "in"
+    },
+    {
+      "name": "starter",
+      "type": "durableClient",
+      "direction": "in"
+    }
+  ]
+}
